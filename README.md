@@ -1,12 +1,12 @@
 <h3>Hi there, I'm Mouhamed 👋</h3>
 
 <p dir="auto">Full Stack Developer 🎯 & Visual Designer 🎨 — self-taught, building in public.</p>
-<ul dir="auto">
-<li>👨‍💻 Full Stack Developer — React Native / Expo, Supabase, Clerk (auth & RLS architecture)</li>
-<li>🎨 Visual identity & brand design — self-directed curriculum</li>
-<li>🎬 Professional Video Editor & 3D Modeler (After Effects / Blender)</li>
-<li>📚 What do I believe? لا سطحية — إذا بنيت شيئاً، أفهمه بعمق أولاً.</li>
-</ul>
+<p dir="auto">
+  — 👨‍💻 Full Stack Developer — React Native / Expo, Supabase, Clerk (auth & RLS architecture)<br>
+  — 🎨 Visual identity & brand design — self-directed curriculum<br>
+  — 🎬 Professional Video Editor & 3D Modeler (After Effects / Blender)<br>
+  — 📚 What do I believe? لا سطحية — إذا بنيت شيئاً، أفهمه بعمق أولاً.
+</p>
 
 <p dir="auto"><strong>Languages</strong></p>
 <p dir="auto">
