@@ -5,8 +5,7 @@
 <li>🎨 Visual identity & brand design — self-directed curriculum</li>
  <li>🎬 Professional Video Editor & 3D Modeler (After Effects / Blender).</li>
 <li>📚 What do I believe? لا سطحية — إذا بنيت شيئاً، أفهمه بعمق أولاً.</li>
-<li>📫 How to reach me: [أضف رابطك هنا]</li>
-<li>🚀 2026 = سنة الانفجار — أول عميل بمبلغ حقيقي، ومشروع أملكه بالكامل.</li>
+<li>📫 How to reach me: <a href="https://www.instagram.com/hamed_atouk"></a></li>
 </ul>
 <p dir="auto"><strong>Languages:</strong></p>
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%; height: auto; max-height: 20px;"></a></code>
