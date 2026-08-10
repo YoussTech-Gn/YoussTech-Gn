@@ -27,7 +27,9 @@
 <img height="20" alt="Clerk" src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white">
 </p>
 
-<hr style="border: none; border-top: 2px dashed #ff6b6b; height: 0;" />
+<p align="center">
+  <img src="https://githubusercontent.com" width="100%" />
+</p>
 
 
 <p dir="auto">
