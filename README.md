@@ -27,7 +27,8 @@
 <img height="20" alt="Clerk" src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white">
 </p>
 
-<hr/>
+<hr style="border: none; border-top: 2px dashed #ff6b6b; height: 0;" />
+
 
 <p dir="auto">
 <a href="https://www.linkedin.com/in/mouhamed-gn-419373428" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mouhamed-blue?style=flat-square&logo=linkedin"></a>
