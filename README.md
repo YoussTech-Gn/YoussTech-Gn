@@ -26,9 +26,9 @@
 <img height="20" alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white">
 <img height="20" alt="Clerk" src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white">
 </p>
-<p align="center">
-  <img src="https://vercel.app" width="100%" />
-</p>
+
+
+---
 
 
 <p dir="auto">
