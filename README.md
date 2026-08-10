@@ -1,4 +1,4 @@
-<h3>Hi there, I'm Mouhamed 👋</h3>
+<h3>Hi there, I'm YoussTech 👋</h3>
 
 <p dir="auto">Full Stack Developer 🎯 & Visual Designer 🎨 — self-taught, building in public.</p>
 <ul dir="auto" >
