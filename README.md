@@ -31,8 +31,3 @@
 ---
 
 
-<p dir="auto">
-<a href="https://www.linkedin.com/in/mouhamed-gn-419373428" rel="nofollow"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mouhamed-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/hamed_atouk" rel="nofollow"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-hamed__atouk-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mouhammed001@proton.me"><img alt="Email" src="https://img.shields.io/badge/Email-mouhammed001%40proton.me-blue?style=flat-square&logo=protonmail"></a>
-</p>
