@@ -5,7 +5,7 @@
 <li>👨‍💻 Full Stack Developer — React Native / Expo, Supabase, Clerk (auth & RLS architecture)</li>
 <li>🎨 Visual identity & brand design — self-directed curriculum</li>
 <li>🎬 Professional Video Editor & 3D Modeler (After Effects / Blender)</li>
-<li>📚 What do I believe? لا سطحية — إذا بنيت شيئاً، أفهمه بعمق أولاً.</li>
+<li>📚 What do I believe? <strong></strong>A hot cup coffee 🍵😅<strong></li>
 </ul>
 
 <p dir="auto"><strong>Languages</strong></p>
