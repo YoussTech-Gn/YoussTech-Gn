@@ -36,7 +36,7 @@
 ## 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,py&theme=dark&perline=6" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,rust,py,solidity&theme=dark&perline=6" alt="Languages" />
 </p>
 
 <p align="center">
