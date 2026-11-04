@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YoussTech&label=Profile+Views&color=6C47FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=YoussTech-Gn&label=Profile+Views&color=6C47FF&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Status-Building_in_Public-3ECF8E?style=for-the-badge" alt="Status" />
 <img src="https://img.shields.io/badge/Open_to-Freelance-FF6B6B?style=for-the-badge" alt="Freelance" />
 
