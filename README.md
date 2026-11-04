@@ -20,7 +20,7 @@
 <!-- ═══════════════ ABOUT ═══════════════ -->
 ## 🧠 About Me
 
-> **Self-taught.** I build mobile apps, web platforms and brand identities, and I ship them in public.
+> **Self-taught.** I write code, break things, fix them, and pretend it was all part of the plan 😎😄.
 
 | | |
 |---|---|
