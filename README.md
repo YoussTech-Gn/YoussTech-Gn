@@ -66,7 +66,7 @@
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/NativeWind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/tanstack-00000?style=for-the-badge&logo=tailwindcss&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/tanstack-00000?style=for-the-badge&logo=tanstacks&logoColor=white" /> 
 </p>
 
 <br/>
