@@ -82,11 +82,11 @@
 
 <!-- ═══════════════ STATS ═══════════════ -->
 
-<details>
+<!-- <details> -->
 <summary>📊 GitHub Stats</summary>
 <div align="center"> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoussTech-Gn&theme=radical" alt="Profile details" /> <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoussTech-Gn&theme=radical" alt="Most used languages" /> <br/> <img src="https://streak-stats.demolab.com?user=YoussTech-Gn&theme=radical&hide_border=true&background=0d1117" alt="Streak" /> </div> <br/> 
 
-</details>
+<!-- </details> -->
 
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
